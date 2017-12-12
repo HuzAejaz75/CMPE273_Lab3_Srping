@@ -1,0 +1,29 @@
+.starred{
+    left: 329px;
+    width: 43px;
+    background: url('../images/fullstar.png') -100px 0;
+    
+}
+.unstarred{
+   
+    width:30px;
+    height:30px;
+    margin-left:50px;
+    background: url('../images/fullstar.png') 0 0;
+    background-repeat:no-repeat;
+}
+
+.menu{
+    margin-left:50px;
+    margin-top:50px;
+    font-size:15px;
+}
+
+.oneRow{
+    height: 100px;
+}
+.formfo{
+    margin-top:10px;
+    height:40px;
+    width:250px;
+}
